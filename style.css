@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 20px;
+}
+
+header, footer {
+    background-color: #d0e0ee;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #264653;
+}
+
+nav a {
+    margin-right: 15px;
+    color: #1d3557;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+footer p {
+    font-size: 0.9em;
+    color: #555;
+}
